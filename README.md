@@ -22,7 +22,7 @@ I am a Full Stack Software student and developer. I am passionate about technolo
 
 #### 🔭 I’m currently looking for a job .
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerxoLaxe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerxoLaxe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⚡ Tech Stack

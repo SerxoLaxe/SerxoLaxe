@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="">Hi, I am Sergio Lage 
 
-I am a Full Stack Software student and developer. I am passionate about technologies and love to learn new things.
-
-
-#### 🔭 I’m currently looking for a job.
+I am a Full Stack Software student and developer.
 
 [![SerxoLaxe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerxoLaxe&theme=dark)](https://github.com/SerxoLaxe)
 
@@ -41,9 +38,5 @@ Here are a few frameworks and languages I use.
 
 ![Rasperry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
-## 📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sergio-lage-48b5701a4) 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SerxoLaxe/SerxoLaxe)

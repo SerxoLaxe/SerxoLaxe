@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="">Hi!
 
-I am a Full Stack developer by night and a traditional tattooer by day. Currently I'm centered in appliying clean code to my web applications and learning about new design patterns. 
+I am a Full Stack developer by night. Currently I'm centered in appliying clean code to my web applications and learning about new design patterns, . 
 Apart from web development i'm interested in security research, SDR, electronics and make cheap routers do weird things
 
 [![SerxoLaxe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerxoLaxe&theme=dark)](https://github.com/SerxoLaxe)

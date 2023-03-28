@@ -25,7 +25,6 @@ Apart from web development i'm interested in security research, SDR, electronics
 - 🔭 I’m currently working on a CRM web application for tattoo studio's management.
 - 🌱 I’m currently learning how to properly squeeze Sequelize and Passport functionalities.
 -  🔧 I'm available for __freelance__ work or to be full time __employed__.
--  
 
 [![SerxoLaxe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerxoLaxe&theme=dark)](https://github.com/SerxoLaxe)
 

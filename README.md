@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 I am a Full Stack developer. Currently I'm centered in appliying clean code to my web applications and learning about new design patterns and development frameworks.
 Apart from web development i'm interested in security research, SDR, electronics and make cheap routers do weird things.
 
+
 - 🔭 I’m currently working on a CRM web application for tattoo studio's management.
 - 🌱 I’m currently learning how to properly squeeze Sequelize and Passport functionalities.
 -  🔧 I'm available for __freelance__ work or to be full time __employed__.
+-  
 
 [![SerxoLaxe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerxoLaxe&theme=dark)](https://github.com/SerxoLaxe)
 
